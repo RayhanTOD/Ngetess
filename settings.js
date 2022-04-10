@@ -18,13 +18,13 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
+global.owner = ['62818617578','62818617578','62818617578']
+global.ownernomer = '62818617578'
+global.premium = ['62818617578']
 global.ownername = 'Keyol Keren'
 global.botname = 'Keyolbot-Md'
 global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
+global.email = 'aliyanrayhan924@gmail.com'
 global.ig = 'https://instagram.com/shelaaa817'
 global.region = 'Planet China'
 
